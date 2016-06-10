@@ -1,6 +1,7 @@
 # Searches book
 
 Searches is a book made with Google search entries. It’s like a diary you didn’t know you were writing.
+More info at [ishback.com/searches](ishback.com/searches)
 
 ## Create your own Searches book:
 
